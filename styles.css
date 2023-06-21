@@ -1,0 +1,51 @@
+/* styles.css */
+
+/* Add your CSS rules here */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#title {
+  text-align: center;
+  color: #333;
+}
+
+#img-div {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+#img-caption {
+  text-align: center;
+  font-style: italic;
+  color: #777;
+  margin-top: 10px;
+}
+
+#tribute-info {
+  margin-top: 20px;
+}
+
+#tribute-link {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  color: #007bff;
+  text-decoration: none;
+}
