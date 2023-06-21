@@ -1,2 +1,1 @@
-# FreecodecampCSSGrid
-FreecodecampCSSGrid
+Tribute page project
